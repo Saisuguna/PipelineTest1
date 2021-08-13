@@ -3,3 +3,5 @@ git add *
 git push -u origin master
 git status
 git commit -m "myfirstcommit"
+git config --global username <name>
+git config --global user.email
