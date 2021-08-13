@@ -1,0 +1,5 @@
+#Commands
+git add *
+git push -u origin master
+git status
+git commit -m "myfirstcommit"
